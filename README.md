@@ -92,7 +92,5 @@ This project demonstrates how Power BI can transform Airbnb listing and review d
 dashboards, performance indicators, and visual storytelling.
 
 8. Screenshots / Demos Show what the dashboard looks like. Example : Overview :- https://github.com/Rohit180620/Airbnb-Performance-Dashboard/blob/main/Overview%20of%20the%20dashboard.png
-
-                                                                     Ratings:- https://github.com/Rohit180620/Airbnb-Performance-Dashboard/blob/main/Rating%20dashboard.png
-
-                                                                     Reviews Dashboard :- https://github.com/Rohit180620/Airbnb-Performance-Dashboard/blob/main/Reviews%20Dashboard%20Snapshot.png
+Ratings:- https://github.com/Rohit180620/Airbnb-Performance-Dashboard/blob/main/Rating%20dashboard.png
+Reviews Dashboard :- https://github.com/Rohit180620/Airbnb-Performance-Dashboard/blob/main/Reviews%20Dashboard%20Snapshot.pn
