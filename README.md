@@ -91,3 +91,4 @@ Page 3: Reviews, Seasonality & Trust
 This project demonstrates how Power BI can transform Airbnb listing and review data into meaningful business insights through interactive
 dashboards, performance indicators, and visual storytelling.
 
+8. Screenshots / Demos Show what the dashboard looks like. Example : 
